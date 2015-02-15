@@ -1,0 +1,7 @@
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.Service\bin\Debug\SimpleOWINCrudService.Service.dll
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.Service\bin\Debug\SimpleOWINCrudService.Service.pdb
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.Service\bin\Debug\SimpleOWINCrudService.Contracts.dll
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.Service\bin\Debug\SimpleOWINCrudService.Contracts.pdb
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.Service\obj\Debug\SimpleOWINCrudService.Service.csprojResolveAssemblyReference.cache
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.Service\obj\Debug\SimpleOWINCrudService.Service.dll
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.Service\obj\Debug\SimpleOWINCrudService.Service.pdb

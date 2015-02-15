@@ -1,0 +1,7 @@
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.DataAccess.InMemory\bin\Debug\SimpleOWINCrudService.DataAccess.InMemory.dll
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.DataAccess.InMemory\bin\Debug\SimpleOWINCrudService.DataAccess.InMemory.pdb
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.DataAccess.InMemory\bin\Debug\SimpleOWINCrudService.Contracts.dll
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.DataAccess.InMemory\bin\Debug\SimpleOWINCrudService.Contracts.pdb
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.DataAccess.InMemory\obj\Debug\SimpleOWINCrudService.DataAccess.InMemory.csprojResolveAssemblyReference.cache
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.DataAccess.InMemory\obj\Debug\SimpleOWINCrudService.DataAccess.InMemory.dll
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.DataAccess.InMemory\obj\Debug\SimpleOWINCrudService.DataAccess.InMemory.pdb

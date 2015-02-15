@@ -1,0 +1,4 @@
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.Contracts\bin\Debug\SimpleOWINCrudService.Contracts.dll
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.Contracts\bin\Debug\SimpleOWINCrudService.Contracts.pdb
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.Contracts\obj\Debug\SimpleOWINCrudService.Contracts.dll
+D:\PersonalProjects\SimpleOWINCrudService\src\SimpleOWINCrudService\SimpleOWINCrudService.Contracts\obj\Debug\SimpleOWINCrudService.Contracts.pdb
