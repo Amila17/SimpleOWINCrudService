@@ -1,7 +1,7 @@
 ﻿
 using System.Web.Http;
 
-namespace SimpleOWINCrudService.Web.App_Start
+namespace SimpleOWINCrudService.Core.Configurations
 {
     public static class WebApiRoutingConfig
     {

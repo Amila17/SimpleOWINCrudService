@@ -1,15 +1,14 @@
-﻿
-using System.Reflection;
+﻿using System.Reflection;
 using System.Web.Http;
 using Autofac;
 using Autofac.Integration.WebApi;
+using SimpleOWINCrudService.API;
 using SimpleOWINCrudService.Contracts.Interfaces;
 using SimpleOWINCrudService.Contracts.Models;
 using SimpleOWINCrudService.DataAccess.InMemory;
 using SimpleOWINCrudService.Service;
-using SimpleOWINCrudService.Web.APIs;
 
-namespace SimpleOWINCrudService.Web.App_Start
+namespace SimpleOWINCrudService.Core.Configurations
 {
     public static class DependencyInjectionConfig
     {

@@ -1,12 +1,11 @@
-﻿
-using System.Net;
+﻿using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
 using SimpleOWINCrudService.Contracts.Interfaces;
 using SimpleOWINCrudService.Contracts.Models;
 
-namespace SimpleOWINCrudService.Web.APIs
+namespace SimpleOWINCrudService.API
 {
     public class CustomerController : ApiController, ICommonCRUDControllerAsync<Customer>
     {

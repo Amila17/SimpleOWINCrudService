@@ -1,9 +1,8 @@
-﻿
-using System.Web.Http;
+﻿using System.Web.Http;
 using Owin;
-using SimpleOWINCrudService.Web.App_Start;
+using SimpleOWINCrudService.Core.Configurations;
 
-namespace SimpleOWINCrudService.Web
+namespace SimpleOWINCrudService.Core
 {
     public class Startup
     {
